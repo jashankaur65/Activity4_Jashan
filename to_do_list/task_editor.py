@@ -13,6 +13,7 @@ class TaskEditor(QDialog):
 
     def initialize_widgets(self, row: int, status: str):
         """
+        
         Given:  Code to create and initialize the QWindow
         and all of the widgets on the window.
         DO NOT EDIT.
