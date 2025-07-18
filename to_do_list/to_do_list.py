@@ -12,6 +12,7 @@ class ToDoList(QMainWindow):
 
     def __initialize_widgets(self):
         """
+        
         Given:  Code to create and initialize the QWindow
         and all of the widgets on the window.
         DO NOT EDIT.
